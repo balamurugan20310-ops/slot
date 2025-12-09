@@ -36,10 +36,10 @@ Execute the program using runserver command.
 <body>
     <div align="center"><img class="center-img" src="logo.png" height="100" width="1000"  >
     <table border="1">
-        <caption><h1><i>TIME TABLE</i></h1></caption>
+        <caption><h1><i>TIME TABLE BALAMURUGAN S (25017904)</i></h1></caption>
         <thead style="background-color :antiquewhite">
             <tr>
-                <th>Day</th>
+                <th>Day/Time</th>
                 <th>8-10 AM</th>
                 <th>10 AM - 12 PM</th>
                 <th>1-3 PM</th>
@@ -90,6 +90,41 @@ Execute the program using runserver command.
                 <td class="subjects" align="center">Communicative English</td>
             </tr>
         </tbody>
+    </table>
+    <br><br>
+    <table border="1">
+        <thead style="background-color: cornflowerblue;">
+            <tr>
+                <th>S.NO</th>
+                <th>Subject Code</th>
+                <th>Subject Name</th>
+            </tr>
+        </thead>
+        <tbody style="background-color: burlywood;">
+            <tr>
+                <td>1.</td>
+                <td>19AI414</td>
+                <td>Fundamentals of Web Application development</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>19AI301</td>
+                <td>Python programming</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>19EN101</td>
+                <td>Communicative English</td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>ECA-M</td>
+                <td>Mentor Meet</td>
+            </tr>
+
+        </tbody>
+        
+
     </table></div>
 </body>
 </html>
@@ -98,7 +133,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![alt text](image.png)
+<img width="1911" height="888" alt="image" src="https://github.com/user-attachments/assets/bc234c98-081b-4745-a6d0-a7f8109cb0ee" />
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
